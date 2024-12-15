@@ -1,32 +1,22 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: Hibridación en Genshin impact y Shazam
 
-### Recurso de aprendizaje de Cultura Digital 
+Autora: Eva Catasús Sánchez
 
+## Genshin Impact
 
-Autor: 
+¿Os ha ocurrido alguna vez que alguien os ha dicho: “Va a salir X juego, porqué no entramos y jugamos todos juntos como en los viejos tiempos?” Y buscas el juego y no te convence pero decides jugar “por los viejos tiempos”. Y pasan los días y miras atrás y solo quedas tú “por los viejos tiempos”.
 
+Así conocí Genshin Impact que es un ARPG (Action Role Playing Game) para móvil aunque está disponible para otras plataformas como PC, Xbox o PS4/5. Los videojuegos tal y como los conocemos actualmente, no podrían existir sin la hibridación de los medios.
 
-Fecha: 
+> La hibridación implica la integración y la interacción de múltiples medios digitales en una única plataforma o ambiente y, como resultado, obtenemos una experiencia de usuario más fluida e integrada. (Adell, 2024)
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+Antes de arrancar con el juego en sí mismo, me gustaría hablar de su motor. Para la creación de Genshin Impact se usó Unity.  
 
-
-
-## Planteamiento
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-## Re-descubriendo la hibridacion: Caso 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Su función principal es dotar al videojuego de un motor para renderizar gráficos 2D y 3D, un motor físico que simule las leyes de la física y detección de colisiones, y herramientas para poder crear las animaciones, *scripts*, sonidos, inteligencia artificial, redes, gestión de memoria, y demás sistemas del videojuego. («Motor de videojuego,» 2024)
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 ### Referencias y Bibliografía
