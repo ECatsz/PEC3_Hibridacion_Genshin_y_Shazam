@@ -55,13 +55,13 @@ Este nuevo metalenguaje en el videojuego está formado por todas las técnicas y
 
 Al hablar con un NPC (_non-playable character_), o atacar a un bicho, nos aparecerá texto flotando por encima del escenario, representado el diálogo o el daño. Además, también tendremos “pegados” sobre nuestro escenario la interfaz de iconos con algunas animaciones en 2D que formarían parte de esta hibridación de medios.
 
-En este punto, aprovecho para volver a Manovich cuando hablaba de la transcodificación y de la “capa cultural”, donde en este caso, tendríamos una historia escrita como si fuera una obra de teatro con sus personajes y sus actos, que pasa a través de la “capa informática” y nos devuelve una hibridación inmensa de medios a la que llamamos videojuego. Donde mediante su interfaz no solo podemos ver y leer la historia, sino que además podemos interactuar con ella. 
-
 Una vez tenemos todos los componentes del escenario y la ambientación, nos encontramos con los personajes en 3D que pueblan este mundo virtual.
 
 > Casi todos los juegos comerciales incluyen una componente llamada «motor de inteligencia artificial», que representa la parte del código informático que controla los personajes[…].  (Manovich, 2001)
 
 Así que a todos los medios anteriores tendríamos que sumarles también la inteligencia artificial.
+
+En este punto, aprovecho para volver a Manovich cuando hablaba de la transcodificación y de la “capa cultural”, donde en este caso, tendríamos una historia escrita como si fuera una obra de teatro con sus personajes y sus actos, que pasa a través de la “capa informática” y nos devuelve una hibridación inmensa de medios a la que llamamos videojuego. Donde mediante su interfaz no solo podemos ver y leer la historia, sino que además podemos interactuar con ella. 
 
 Podríamos pensar que los videojuegos además de una hibridación de medios, son una remediación de la literatura, que va más allá hasta tal punto donde podemos interactuar directamente con la historia. Leer los capítulos (las misiones del juego) en el orden que queramos, ser nosotros los que nos enfrentemos a los desafíos que se explican (por ejemplo derrotar a un bicho), resolver los puzles, etc. Permite una inmersión más profunda, pero a la vez más limitante ya que te coarta una parte de tu imaginación.
 
