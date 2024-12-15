@@ -1,4 +1,4 @@
-# PEC3: Hibridación en Genshin impact y Shazam
+# PEC3: Hibridación en Genshin Impact y Shazam
 
 Autora: Eva Catasús Sánchez
 
@@ -67,7 +67,7 @@ Podríamos pensar que los videojuegos además de una hibridación de medios, son
 
 > Actualmente los diseñadores remezclan no tan solo el contenido de distintos medios, sino también sus técnicas más básicas, métodos de trabajo y vías de representación y de expresión. Unidos dentro del entorno del software compartido, los lenguajes de la cinematografía, la animación, la animación por ordenador, los efectos especiales, el diseño gráfico, la tipografía, el dibujo y la pintura han acabado formando un nuevo metalenguaje. (Manovich, 2013)
 
-Por lo que, además de todo lo anterior, se podría considerar que Genshin en concreto y los videojuegos en general son una remezcla profunda.
+Por lo que, además de todo lo anterior, se podría considerar que es una remezcla profunda.
 
 ## Shazam
 
