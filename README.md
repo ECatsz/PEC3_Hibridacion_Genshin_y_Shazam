@@ -71,7 +71,7 @@ Podríamos pensar que los videojuegos RPG son además de una hibridación de med
 
 Por todo esto, se podría considerar también que este juego es una remezcla profunda ya que hay momentos donde se mezclan animación 2D, 3D movimientos de cámara imposibles y animación de textos y siempre con una música de fondo.
 
-:notes: ## Shazam
+## :notes: Shazam
 
 Shazam es la típica app que siempre tengo instalada. Es esa app que Android insiste en que la borre porque no la uso muy a menudo y ocupa espacio. ¿Pero cómo la voy a borrar, si cuando la necesito tiene que estar disponible en un instante?
 
