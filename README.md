@@ -5,19 +5,13 @@ Autora: Eva Catasús Sánchez
 
 ## Introducción
 
-Antes de empezar y ahondar en el tema de este ensayo, me parece necesario primero exponer la definición de 3 conceptos de Manovich que son: Remediación, multimedia e hibridación.
+Este ensayo sobre la hibridación de dos casos particulares de aplicaciones, está basado en el concepto que utiliza Lev Manovich en su libro *El software toma el mando.*  
 
-**Remediación:**
+Es importante distinguir la hibridación del término multimedia, donde varios tipos de medios, videos, imágenes, texto, etc, conviven en un mismo documento, pero no se mezclan entre sí.
 
-> "Manovich utiliza este término para explicar la transformación de los medios antiguos en un proceso que va más allá de una simple digitalización y que implica una previa asimilación de los objetos para dar paso a su reformulación en el nuevo contexto digital". (Adell, 2024)
+> “En los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.” (Manovich, 2013)
 
-**Multimedia:**
-
-> "[…] Describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios. A menudo estos medios (que solían ser texto, gráficos, fotografías, vídeo, escenas en 3D y sonido) se sitúan en lo que visualmente asemeja un espacio bidimensional". (Manovich, 2013)
-
-**Hibridación:**
-
-> "En los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno”. (Manovich, 2013)
+A su vez, podemos identificar otro fenómeno en el software, que es la remediación. Según nos indica Adell, “Manovich utiliza este término para explicar la transformación de los medios antiguos en un proceso que va más allá de una simple digitalización y que implica una previa asimilación de los objetos para dar paso a su reformulación en el nuevo contexto digital.”
 
 ## Genshin Impact
 
@@ -63,7 +57,7 @@ Una vez tenemos todos los componentes del escenario y la ambientación, nos enco
 
 Así que a todos los medios anteriores tendríamos que sumarles también la inteligencia artificial.
 
-Hay otro componente de hibridación más, el juego contiene una parte social, ya que puedes interactuar por el chat con las personas que tengas agredas en tu lista de amigos mientras paseas por el escenario en 3D haciendo una misión.
+Hay otro componente de hibridación más, el juego contiene una parte social, ya que puedes interactuar por el chat con las personas que tengas agregadas en tu lista de amigos mientras paseas por el escenario en 3D haciendo una misión.
 
 **Conclusiones**
 
@@ -104,7 +98,8 @@ Pero además, considero que también tiene una parte multimedia, ya que a su vez
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* 
 
 
 ----
