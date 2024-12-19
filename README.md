@@ -103,8 +103,7 @@ Pero además, considero que también tiene una parte multimedia, ya que a su vez
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * 
 
-### Imágenes
-
+Imágenes de https://www.shazam.com/es-es 
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
