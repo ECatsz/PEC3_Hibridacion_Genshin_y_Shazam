@@ -13,7 +13,7 @@ Es importante distinguir la hibridación del término multimedia, donde varios t
 
 A su vez, podemos identificar otro fenómeno en el software, que es la remediación. Según nos indica Adell, “Manovich utiliza este término para explicar la transformación de los medios antiguos en un proceso que va más allá de una simple digitalización y que implica una previa asimilación de los objetos para dar paso a su reformulación en el nuevo contexto digital.”
 
-## Genshin Impact
+## :video_game: Genshin Impact
 
 ¿Os ha ocurrido alguna vez que alguien os ha dicho: “Va a salir X juego, porqué no entramos y jugamos todos juntos como en los viejos tiempos?” Y buscas el juego y no te convence pero decides jugar “por los viejos tiempos”. Y pasan los días y miras atrás y solo quedas tú “por los viejos tiempos”.
 
@@ -72,6 +72,8 @@ Podríamos pensar que los videojuegos RPG son además de una hibridación de med
 Por todo esto, se podría considerar también que este juego es una remezcla profunda ya que hay momentos donde se mezclan animación 2D, 3D movimientos de cámara imposibles y animación de textos y siempre con una música de fondo.
 
 ## :notes: Shazam
+
+<image src="/images/shazam.jpg" alt="Cuatro pantallas de móvil, en cada una de ellas algo que puedes ver en Shazam. Un videoclip, pantalla de la app antes de darle a empezar, "stories" de clips o la letra de una canción.">
 
 Shazam es la típica app que siempre tengo instalada. Es esa app que Android insiste en que la borre porque no la uso muy a menudo y ocupa espacio. ¿Pero cómo la voy a borrar, si cuando la necesito tiene que estar disponible en un instante?
 
