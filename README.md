@@ -73,7 +73,7 @@ Por todo esto, se podría considerar también que este juego es una remezcla pro
 
 ## :notes: Shazam
 
-![Cuatro pantallas de móvil. Un videoclip, pantalla de la app antes de darle a empezar, "stories" de clips y la letra de una canción.](/images/shazam.png =1200x)
+![Cuatro pantallas de móvil. Un videoclip, pantalla de la app antes de darle a empezar, "stories" de clips y la letra de una canción.](/images/shazam.png)
 
 Shazam es la típica app que siempre tengo instalada. Es esa app que Android insiste en que la borre porque no la uso muy a menudo y ocupa espacio. ¿Pero cómo la voy a borrar, si cuando la necesito tiene que estar disponible en un instante?
 
